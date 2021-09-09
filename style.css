@@ -1,5 +1,5 @@
 body {
-	background-color;Indigo
+	background-color: limegreen;
      
      }
 
@@ -9,7 +9,7 @@ body {
 	box-shadow: inset 10px 10px 5px 5px #888888
    }
 	     
-.text { 
+.text { color: yellow;
 	padding: 10px;
 	border: skyblue;
 	border-width: 2px;
